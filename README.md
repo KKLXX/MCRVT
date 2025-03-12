@@ -1,5 +1,5 @@
 # MCRVT
-Currently open source for core functional modules
+Open source for core functional modules
 
 Versatile Attention----We design it as a plug-and-play module
 
