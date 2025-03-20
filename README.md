@@ -1,11 +1,11 @@
-# MCRVT
-Open source for core functional modules
+# MCRVT-TAFFC-under review
+Core functional modules are as follows
 
-WavLM-Logmel---Include all pre-trained model (Hubert/Wav2vec/Wav2vev2/WavLM) scenarios considered in the original work
+  WavLM-Logmel---Include all pre-trained model (Hubert/Wav2vec/Wav2vev2/WavLM) scenarios considered in the original work
 
-Versatile Attention----We design it as a plug-and-play module for testing
+  Versatile Attention----We design it as a plug-and-play module for testing
 
-MHFF-CA, i.e., Contrastive Reconstruction Networks and Cross Attention
+  MHFF-CA, i.e., Contrastive Reconstruction Networks and Cross-Attention
 
 
 
