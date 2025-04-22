@@ -4,7 +4,7 @@ import torch.nn.functional as F
 
 class ContrastiveReconstructionNetwork(nn.Module):
     """
-    Contrastive Reconstruction Networks (CRN) for multi-modal feature reconstruction
+    Contrastive Reconstruction Networks (CRN) for cross-modal feature reconstruction
     
     Args:
         input_dim_w (int): Dimension of WavLM features
